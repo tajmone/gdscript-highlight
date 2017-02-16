@@ -1,0 +1,148 @@
+COLOR SPEC SHEET
+
+Format descriptions:
+    Hex: #RRGGBB
+         RR = Red value.   Range 00 - FF
+         GG = Green value. Range 00 - FF
+         BB = Blue value.  Range 00 - FF
+
+    RGB: Red Green Blue
+         Range 0 - 255
+
+    HSB: Hue Saturation Brightness
+         Hue value,        Range: 0 - 360°
+         Saturation value, Range: 0 - 100%
+         Brightness value, Range: 0 - 100%
+
+    HSL: Hue Saturation Lightness
+         Hue value,        Range: 0 - 240
+         Saturation value, Range: 0 - 240
+         Lightness value,  Range: 0 - 240
+
+
+White: 
+    #FFFFFF
+    RGB: 255 255 255
+    HSB: 0 0 100
+    HSL: 0 0 240
+
+Red Orange: 
+    #FF3333
+    RGB: 255 51 51
+    HSB: 0 80 100
+    HSL: 0 240 144
+
+Silver Chalice: 
+    #AAAAAA
+    RGB: 170 170 170
+    HSB: 0 0 67
+    HSL: 0 0 160
+
+Black: 
+    #000000
+    RGB: 0 0 0
+    HSB: 0 0 0
+    HSL: 0 0 0
+
+Cumin: 
+    #973D1A
+    RGB: 151 61 26
+    HSB: 17 83 59
+    HSL: 11 169 83
+
+Carrot Orange: 
+    #EB9531
+    RGB: 235 149 49
+    HSB: 32 79 92
+    HSL: 22 198 134
+
+Portafino: 
+    #FFFFB3
+    RGB: 255 255 179
+    HSB: 60 30 100
+    HSL: 40 240 204
+
+Japanese Laurel: 
+    #197219
+    RGB: 25 114 25
+    HSB: 120 78 45
+    HSL: 80 154 65
+
+Dark Fern: 
+    #0C3F0C
+    RGB: 12 63 12
+    HSB: 120 81 25
+    HSL: 80 163 35
+
+Aquamarine: 
+    #A3FFD4
+    RGB: 163 255 212
+    HSB: 152 36 100
+    HSL: 101 240 197
+
+Malibu: 
+    #83D3FF
+    RGB: 131 211 255
+    HSB: 201 49 100
+    HSL: 134 240 182
+
+Tropical Blue: 
+    #BADFFF
+    RGB: 186 223 255
+    HSB: 208 27 100
+    HSL: 139 240 208
+
+Danube: 
+    #66A1CD
+    RGB: 102 161 205
+    HSB: 206 50 80
+    HSL: 137 122 144
+
+Ebony Clay: 
+    #282E3F
+    RGB: 40 46 63
+    HSB: 224 37 25
+    HSL: 150 54 48
+
+Masala: 
+    #424244
+    RGB: 66 66 68
+    HSB: 240 3 27
+    HSL: 160 4 63
+
+Shark: 
+    #2B2A31
+    RGB: 43 42 49
+    HSB: 249 14 19
+    HSL: 166 18 43
+
+Abbey: 
+    #58575B
+    RGB: 88 87 91
+    HSB: 255 4 36
+    HSL: 170 5 84
+
+Fuchsia Blue: 
+    #7B5DBD
+    RGB: 123 93 189
+    HSB: 259 51 74
+    HSL: 172 101 133
+
+Baltic Sea: 
+    #222026
+    RGB: 34 32 38
+    HSB: 260 16 15
+    HSL: 173 21 33
+
+Hot Pink: 
+    #EF6EBD
+    RGB: 239 110 189
+    HSB: 323 54 94
+    HSL: 216 192 164
+
+Mandy: 
+    #E64D59
+    RGB: 230 77 89
+    HSB: 355 67 90
+    HSL: 237 181 144
+
