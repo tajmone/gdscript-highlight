@@ -1,0 +1,3 @@
+# GDSCript Lang Dev-Notes
+
+    UNDER CONSTRUCTION! COMING SOON...
