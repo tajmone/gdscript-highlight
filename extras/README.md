@@ -7,6 +7,7 @@ This folder contains additional resources of the [GDScript-Highlight](https://gi
 
 <!-- #toc -->
 -   [Files List](#files-list)
+-   [Folders List](#folders-list)
 -   [Dev-Notes](#dev-notes)
 -   [License Notice for Code Sample](#license-notice-for-code-sample)
 
@@ -23,6 +24,12 @@ Files List
 -   [`screenshot-godot-editor.jpg`](./screenshot-godot-editor.jpg) — Sample GDScript in Godot’s editor.
 -   [`LANG-DEV-NOTES.md`](./LANG-DEV-NOTES.md) — Dev-Notes on GDScript lang definition.
 -   [`THEME-DEV-NOTES.md`](./THEME-DEV-NOTES.md) — Dev-Notes on Godot theme.
+
+Folders List
+============
+
+-   [`/palettes/`](./palettes/) — Godot’s feault Theme palette in various formats.
+-   [`/swatches/`](./swatches/) — PNG swatches of Godot’s palette (used for previews in doc files).
 
 Dev-Notes
 =========

@@ -10,6 +10,8 @@ GDScript language definition and theme for André Simon’s **Highlight** tool:
 
 By [Tristano Ajmone](https://github.com/tajmone/) (2017/02/16). Released under the public domain according to the [Unlicense](./LICENSE) license terms (with the exception of the third party [GDScript sample code](#license-notice), used for testing purposes, which is MIT licensed).
 
+Also contains an [`/extras/`](./extras/) folder with dev-notes and resources for porting GDScript syntax or Godot theme to other libraries.
+
 Project home:
 
 -   <https://github.com/tajmone/gdscript-highlight>
@@ -19,6 +21,7 @@ Project home:
 <!-- #toc -->
 -   [Introduction](#introduction)
 -   [Manual Setup](#manual-setup)
+-   [Extra Resources](#extra-resources)
 -   [License Notice](#license-notice)
 -   [Third Party Resources](#third-party-resources)
     -   [Other Syntax Highlighters](#other-syntax-highlighters)
@@ -69,6 +72,15 @@ Open **Highlight**’s “`filetypes.conf`” file in a text editor and add the 
 … this will associate the “`*.gd`” file extension with GDScript syntax. For more info, see:
 
 -   <http://www.andre-simon.de/doku/highlight/en/highlight.php#ch3_7>
+
+Extra Resources
+===============
+
+-   [`/extras/`](./extras/)
+
+In the [`/extras/`](./extras/) folder you will also find some developer-notes and resources useful if you are planning to update this project or to create a GDScript language definition for another syntax highlighting tool/library, or porting the Godot theme.
+
+The resouces also include Godot editor’s default theme palette in different file formats, with comments on how to use the palette.
 
 License Notice
 ==============
