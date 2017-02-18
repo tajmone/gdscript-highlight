@@ -59,9 +59,10 @@ Manual Setup
 
 Manual setup is only required while waiting for GDScript to become part of **Highlight**’s official bundle.
 
-    Highlight/langDefs/gdscript.lang   <= copy file to here
-    Highlight/themes/edit-godot.theme  <= copy file to here
-    Highlight/filetypes.conf           <= edit file 
+    Highlight/langDefs/gdscript.lang              <= copy file to here
+    Highlight/themes/edit-godot.theme             <= copy file to here
+    Highlight/filetypes.conf                      <= edit file 
+    Highlight/gui_files/ext/fileopenfilter.conf   <= edit file 
 
 Copy “`gdscript.lang`” in Highlight’s “`langDefs`” folder, and “`edit-godot.theme`” in the “`themes`” folder.
 
@@ -69,7 +70,11 @@ Open **Highlight**’s “`filetypes.conf`” file in a text editor and add the 
 
      { Lang="gdscript", Extensions={"gd"} },
 
-… this will associate the “`*.gd`” file extension with GDScript syntax. For more info, see:
+Edit the “`fileopenfilter.conf`” file found in Highlight’s “`gui_files/ext/`” folder, and add the following line:
+
+    GDScript (*.gd)
+
+… the last two changes will associate the “`*.gd`” file extension with GDScript syntax. For more info, see:
 
 -   <http://www.andre-simon.de/doku/highlight/en/highlight.php#ch3_7>
 
