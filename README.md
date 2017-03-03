@@ -12,6 +12,8 @@ By [Tristano Ajmone](https://github.com/tajmone/) (2017/02/16). Released under t
 
 Also contains an [`/extras/`](./extras/) folder with dev-notes and resources for porting GDScript syntax or Godot theme to other libraries.
 
+> **NOTE**: Both the GDScript language definition and theme are now part of the **Highlight** bundle since version 3.35 (2017-02-28).
+
 Project home:
 
 -   <https://github.com/tajmone/gdscript-highlight>
@@ -57,7 +59,9 @@ There’s also an [html converted example file](./extras/example.html) of the so
 Manual Setup
 ============
 
-Manual setup is only required while waiting for GDScript to become part of **Highlight**’s official bundle.
+> **NOTE**: The official release of **Highlight** version &gt;= 3.35 (2017-02-28) already contains the GDScript language definition and theme, so *you don’t need to manually install them*.
+
+The following instructions might be useful if you plan to make changes to the GDScript language definition or theme.
 
     Highlight/langDefs/gdscript.lang              <= copy file to here
     Highlight/themes/edit-godot.theme             <= copy file to here
